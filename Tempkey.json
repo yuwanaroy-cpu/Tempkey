@@ -12,5 +12,12 @@
     "password": "ida",
     "expiresAt": "2025-12-30",
     "allowOffline": false
+  },
+  {
+    "id": "31785f626fb4ac44",
+    "username": "ida",
+    "password": "adi",
+    "expiresAt": "2025-12-30",
+    "allowOffline": false
   }
 ]
