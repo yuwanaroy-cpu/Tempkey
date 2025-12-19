@@ -35,9 +35,9 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pas",
+    "id": "339331a99b42de4e",
+    "username": "dimas",
+    "password": "paijo",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
@@ -251,4 +251,4 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
-]
+    ]
