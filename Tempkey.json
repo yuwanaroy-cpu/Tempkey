@@ -7,10 +7,10 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
+    "id": "9e620066b54a609d",
+    "username": "adi",
+    "password": "ida",
+    "expiresAt": "2025-12-30",
     "allowOffline": false
   }
 ]
