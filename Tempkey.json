@@ -52,7 +52,7 @@
     "id": "ced747e67abfd76a",
     "username": "miun",
     "password": "123",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
@@ -122,7 +122,7 @@
     "id": "ecc80df90aebcf1e",
     "username": "user5",
     "password": "pas5",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2025-12-24",
     "allowOffline": true
   },
   {
