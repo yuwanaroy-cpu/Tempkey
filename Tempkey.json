@@ -59,7 +59,7 @@
     "id": "516390c4bc0534e0",
     "username": "hesuwi",
     "password": "ok",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
@@ -98,17 +98,17 @@
     "allowOffline": true
   },
   {
-    "id": "c842b02cdf6f1f8c",
-    "username": "user1",
-    "password": "trial1",
-    "expiresAt": "2025-12-24",
+    "id": "f493a814d465d3df",
+    "username": "adif",
+    "password": "adif",
+    "expiresAt": "2026-12-24",
     "allowOffline": true
   },
   {
-    "id": "50e20477b31d9102",
-    "username": "2",
-    "password": "10",
-    "expiresAt": "2025-12-25",
+    "id": "a02db216b240f848",
+    "username": "fadli",
+    "password": "fadli",
+    "expiresAt": "2026-12-25",
     "allowOffline": true
   },
   {
