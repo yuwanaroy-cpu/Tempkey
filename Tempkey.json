@@ -63,9 +63,9 @@
     "allowOffline": true
   },
   {
-    "id": "be11b4e31aa5baf5",
-    "username": "lingga",
-    "password": "lingga",
+    "id": "userid",
+    "username": "user",
+    "password": "user",
     "expiresAt": "2026-02-27",
     "allowOffline": true
   },
