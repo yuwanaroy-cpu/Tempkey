@@ -14,9 +14,9 @@
     "allowOffline": true
   },
   {
-    "id": "f02bbdce1a30927d",
-    "username": "samsul",
-    "password": "1988",
+    "id": "userid",
+    "username": "user",
+    "password": "pass",
     "expiresAt": "2026-12-29",
     "allowOffline": true
   },
@@ -105,9 +105,9 @@
     "allowOffline": true
   },
   {
-    "id": "user",
-    "username": "fadli",
-    "password": "fadli",
+    "id": "f02bbdce1a30927d",
+    "username": "samsul",
+    "password": "1988",
     "expiresAt": "2026-12-25",
     "allowOffline": true
   },
