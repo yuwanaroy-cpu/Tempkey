@@ -30,7 +30,7 @@
   {
     "id": "71954eaafa1e8314",
     "username": "roy",
-    "password": "20",
+    "password": "roy",
     "expiresAt": "2026-12-30",
     "allowOffline": true
   },
@@ -85,8 +85,8 @@
   },
   {
     "id": "userid",
-    "username": "roy",
-    "password": "roy",
+    "username": "user",
+    "password": "pas",
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
