@@ -1,8 +1,8 @@
 [
   {
-    "id": "8a4742d2d509bd3b",
-    "username": "ryan",
-    "password": "ss",
+    "id": "userid",
+    "username": "user",
+    "password": "pas",
     "expiresAt": "2026-03-31",
     "allowOffline": true
   },
@@ -1386,10 +1386,10 @@
     "allowOffline": true
   },
   {
-    "id": "bd1ce45b1affbb24",
-    "username": "free",
-    "password": "free",
-    "expiresAt": "2026-02-23",
+    "id": "8a4742d2d509bd3b",
+    "username": "ryan",
+    "password": "ryan",
+    "expiresAt": "2026-03-31",
     "allowOffline": true
   },
   {
