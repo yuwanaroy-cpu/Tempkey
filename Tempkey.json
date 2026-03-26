@@ -126,9 +126,9 @@
     "allowOffline": true
   },
   {
-    "id": "a9c92b934b09cea6",
-    "username": "candra",
-    "password": "candra",
+    "id": "user",
+    "username": "user",
+    "password": "user",
     "expiresAt": "2026-12-06",
     "allowOffline": true
   },
@@ -294,10 +294,10 @@
     "allowOffline": true
   },
   {
-    "id": "f597f4b9e0150982",
-    "username": "user",
-    "password": "pas",
-    "expiresAt": "2026-03-06",
+    "id": "a9c92b934b09cea6",
+    "username": "candra",
+    "password": "03",
+    "expiresAt": "2026-12-06",
     "allowOffline": true
   },
   {
