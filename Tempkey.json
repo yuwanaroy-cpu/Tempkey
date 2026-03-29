@@ -175,9 +175,9 @@
     "allowOffline": true
   },
   {
-    "id": "210e6ed123ffff2b",
-    "username": "audi",
-    "password": "bincang",
+    "id": "user",
+    "username": "user",
+    "password": "audi",
     "expiresAt": "2026-12-10",
     "allowOffline": true
   },
@@ -273,16 +273,16 @@
     "allowOffline": true
   },
   {
-    "id": "654bcd7752668607",
-    "username": "audi1",
-    "password": "bincang1",
+    "id": "user",
+    "username": "user",
+    "password": "user",
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
-    "id": "ed55563f4be18208",
-    "username": "audi1",
-    "password": "bincang1",
+    "id": "user",
+    "username": "user",
+    "password": "user",
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
@@ -1351,10 +1351,10 @@
     "allowOffline": true
   },
   {
-    "id": "e5b169a1f99b4ca5",
-    "username": "user",
-    "password": "pas",
-    "expiresAt": "2026-03-04",
+    "id": "d739b267504f0d97",
+    "username": "bincang",
+    "password": "bincang",
+    "expiresAt": "2026-12-04",
     "allowOffline": true
   },
   {
@@ -1365,10 +1365,10 @@
     "allowOffline": true
   },
   {
-    "id": "62558f434e14af02",
-    "username": "ibra",
-    "password": "3hari",
-    "expiresAt": "2026-02-28",
+    "id": "b88c1fa377cdab98",
+    "username": "audi",
+    "password": "audi",
+    "expiresAt": "2026-12-28",
     "allowOffline": true
   },
   {
