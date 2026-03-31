@@ -1372,9 +1372,9 @@
     "allowOffline": true
   },
   {
-    "id": "71954eaafa1e8314",
-    "username": "roy",
-    "password": "roy",
+    "id": "user",
+    "username": "user",
+    "password": "user",
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
@@ -1414,9 +1414,9 @@
     "allowOffline": true
   },
   {
-    "id": "549894fbef895d01",
-    "username": "lingga",
-    "password": "lingga",
+    "id": "user",
+    "username": "user",
+    "password": "user",
     "expiresAt": "2026-04-30",
     "allowOffline": true
   },
