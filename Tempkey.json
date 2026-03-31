@@ -364,17 +364,17 @@
     "allowOffline": true
   },
   {
-    "id": "895b31d7bfd0d91c",
-    "username": "agus",
-    "password": "agus",
+    "id": "usee",
+    "username": "user",
+    "password": "user",
     "expiresAt": "2026-04-02",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pas",
-    "expiresAt": "2025-12-31",
+    "id": "895b31d7bfd0d91c",
+    "username": "agus",
+    "password": "agus",
+    "expiresAt": "2026-04-02",
     "allowOffline": true
   },
   {
