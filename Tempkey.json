@@ -196,17 +196,17 @@
     "allowOffline": true
   },
   {
-    "id": "user",
-    "username": "user",
-    "password": "user",
-    "expiresAt": "2026-02-02",
+    "id": "2be3e73e62a72718",
+    "username": "kebeb",
+    "password": "kebeb",
+    "expiresAt": "2026-05-10",
     "allowOffline": true
   },
   {
     "id": "user",
     "username": "usee",
     "password": "usee",
-    "expiresAt": "2026-12-25",
+    "expiresAt": "2026-05-10",
     "allowOffline": true
   },
   {
