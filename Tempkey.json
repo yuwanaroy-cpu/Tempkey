@@ -1379,16 +1379,16 @@
     "allowOffline": true
   },
   {
-    "id": "6c2f72ddef2decff",
-    "username": "ichsan",
-    "password": "ichsan",
-    "expiresAt": "2026-02-20",
+    "id": "user_id",
+    "username": "user",
+    "password": "pas",
+    "expiresAt": "2025-02-20",
     "allowOffline": true
   },
   {
-    "id": "2be3e73e62a72718",
-    "username": "kebeb",
-    "password": "kebeb",
+    "id": "user_id",
+    "username": "user",
+    "password": "pas",
     "expiresAt": "2026-04-09",
     "allowOffline": true
   },
@@ -1407,17 +1407,17 @@
     "allowOffline": true
   },
   {
-    "id": "1d7bd4b4e40c27a6",
-    "username": "binger",
-    "password": "binger",
-    "expiresAt": "2026-12-31",
+    "id": "user",
+    "username": "user",
+    "password": "pas",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "098fa8ce382dd791",
-    "username": "beat",
-    "password": "beat",
-    "expiresAt": "2026-02-21",
+    "id": "user_id",
+    "username": "user",
+    "password": "pas",
+    "expiresAt": "2025-02-21",
     "allowOffline": true
   },
   {
@@ -1428,17 +1428,17 @@
     "allowOffline": true
   },
   {
-    "id": "e9437820625162dc",
-    "username": "ayoyy",
-    "password": "baru",
-    "expiresAt": "2026-04-07",
+    "id": "user_id",
+    "username": "user",
+    "password": "pas",
+    "expiresAt": "2025-04-07",
     "allowOffline": true
   },
   {
-    "id": "538cf9d89a3fb5b9",
-    "username": "heru2",
-    "password": "pcx2",
-    "expiresAt": "2026-12-30",
+    "id": "user_id",
+    "username": "user",
+    "password": "pas",
+    "expiresAt": "2025-12-30",
     "allowOffline": true
   }
 ]
