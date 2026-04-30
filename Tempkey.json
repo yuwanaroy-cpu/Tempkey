@@ -448,17 +448,17 @@
     "allowOffline": true
   },
   {
-    "id": "170cb6b62ee311eb",
-    "username": "noti",
-    "password": "notif",
+    "id": "user",
+    "username": "user",
+    "password": "pas",
     "expiresAt": "2026-05-01",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pas",
-    "expiresAt": "2025-12-31",
+    "id": "170cb6b62ee311eb",
+    "username": "indra",
+    "password": "indra",
+    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
@@ -1414,9 +1414,9 @@
     "allowOffline": true
   },
   {
-    "id": "170cb6b62ee311eb",
-    "username": "shark",
-    "password": "shark",
+    "id": "user",
+    "username": "user",
+    "password": "user",
     "expiresAt": "2026-05-01",
     "allowOffline": true
   },
