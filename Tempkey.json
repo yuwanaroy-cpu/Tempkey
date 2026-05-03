@@ -1326,7 +1326,7 @@
     "id": "ee18f372bb546c03",
     "username": "bibek",
     "password": "bibek",
-    "expiresAt": "2026-05-03",
+    "expiresAt": "2026-05-13",
     "allowOffline": true
   },
   {
@@ -1428,16 +1428,16 @@
     "allowOffline": true
   },
   {
-    "id": "1c948d5e47c19408",
-    "username": "bibek",
-    "password": "nonroot",
+    "id": "user_id",
+    "username": "username",
+    "password": "pasword",
     "expiresAt": "2026-05-03",
     "allowOffline": true
   },
   {
-    "id": "263f0e70f7cc338a",
-    "username": "bibek2",
-    "password": "bibek2",
+    "id": "user_id",
+    "username": "username",
+    "password": "pasword",
     "expiresAt": "2026-05-03",
     "allowOffline": true
   }
