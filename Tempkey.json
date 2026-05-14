@@ -1435,10 +1435,10 @@
     "allowOffline": true
   },
   {
-    "id": "user_id",
-    "username": "username",
-    "password": "pasword",
-    "expiresAt": "2026-05-03",
+    "id": "cfec4ad530587246",
+    "username": "mas",
+    "password": "dan",
+    "expiresAt": "2026-06-03",
     "allowOffline": true
   }
 ]
