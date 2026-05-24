@@ -1407,10 +1407,10 @@
     "allowOffline": true
   },
   {
-    "id": "user",
-    "username": "user",
-    "password": "pas",
-    "expiresAt": "2025-12-31",
+    "id": "cfec4ad530587246",
+    "username": "trial",
+    "password": "trial",
+    "expiresAt": "2026-05-25",
     "allowOffline": true
   },
   {
