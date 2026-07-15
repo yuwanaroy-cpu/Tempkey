@@ -621,5 +621,12 @@
     "password": "kepet",
     "expiresAt": "2030-07-11",
     "allowOffline": true
+  },
+  {
+    "id": "60e11d41977bf034",
+    "username": "panda",
+    "password": "panda",
+    "expiresAt": "2026-08-13",
+    "allowOffline": true
   }
 ]
