@@ -614,5 +614,12 @@
     "password": "redmi5",
     "expiresAt": "2026-07-17",
     "allowOffline": true
+  },
+  {
+    "id": "f75852c076691561",
+    "username": "kepet",
+    "password": "kepet",
+    "expiresAt": "2030-07-11",
+    "allowOffline": true
   }
 ]
