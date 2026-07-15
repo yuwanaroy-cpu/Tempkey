@@ -21,13 +21,6 @@
     "allowOffline": true
   },
   {
-    "id": "60e11d41977bf034",
-    "username": "panda",
-    "password": "panda",
-    "expiresAt": "2026-12-29",
-    "allowOffline": true
-  },
-  {
     "id": "56ac271bc7b1ef07",
     "username": "redmi8",
     "password": "redmi8",
@@ -67,13 +60,6 @@
     "username": "gemblunk",
     "password": "gemblunk",
     "expiresAt": "2026-08-25",
-    "allowOffline": true
-  },
-  {
-    "id": "339331a99b42de4e",
-    "username": "dimas",
-    "password": "pcx",
-    "expiresAt": "2026-12-30",
     "allowOffline": true
   },
   {
@@ -126,13 +112,6 @@
     "allowOffline": true
   },
   {
-    "id": "cabc6aff4db2db03",
-    "username": "KEPET",
-    "password": "1927",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
     "id": "31dd53520ab1eae7",
     "username": "putra",
     "password": "putra",
@@ -144,13 +123,6 @@
     "username": "200",
     "password": "kepet",
     "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "cfec4ad530587246",
-    "username": "kepet",
-    "password": "kepet",
-    "expiresAt": "2026-12-30",
     "allowOffline": true
   },
   {
@@ -182,13 +154,6 @@
     "allowOffline": true
   },
   {
-    "id": "45ac64ac2044bc06",
-    "username": "kepet",
-    "password": "kalcer",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
     "id": "3d202d3c850fa935",
     "username": "kepet",
     "password": "kzr",
@@ -203,13 +168,6 @@
     "allowOffline": true
   },
   {
-    "id": "3d202d3c850fa935",
-    "username": "kepet",
-    "password": "2026",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
     "id": "204c4be24f1c800a",
     "username": "dpo",
     "password": "dpo",
@@ -221,13 +179,6 @@
     "username": "woii",
     "password": "woii",
     "expiresAt": "2026-12-24",
-    "allowOffline": true
-  },
-  {
-    "id": "6a7c55d371ca7c94",
-    "username": "magisk",
-    "password": "magisk",
-    "expiresAt": "2026-12-18",
     "allowOffline": true
   },
   {
@@ -595,38 +546,10 @@
     "allowOffline": true
   },
   {
-    "id": "777cb18c5b9fc999",
-    "username": "user7",
-    "password": "pas7",
-    "expiresAt": "2026-08-31",
-    "allowOffline": true
-  },
-  {
-    "id": "3a9dca3dae965689",
-    "username": "user6",
-    "password": "pas6",
-    "expiresAt": "2026-08-31",
-    "allowOffline": true
-  },
-  {
-    "id": "bb6a9ebd0d9dfdd3",
-    "username": "user5",
-    "password": "pas5",
-    "expiresAt": "2026-08-31",
-    "allowOffline": true
-  },
-  {
     "id": "8931dafc343cdeb8",
     "username": "cismod",
     "password": "cismod",
     "expiresAt": "3026-06-17",
-    "allowOffline": true
-  },
-  {
-    "id": "a8426257cd1a4073",
-    "username": "anmol",
-    "password": "anmol",
-    "expiresAt": "2027-12-31",
     "allowOffline": true
   },
   {
