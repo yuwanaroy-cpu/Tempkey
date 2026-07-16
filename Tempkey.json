@@ -105,24 +105,10 @@
     "allowOffline": true
   },
   {
-    "id": "31dd53520ab1eae7",
-    "username": "putra",
-    "password": "putra",
-    "expiresAt": "2026-07-15",
-    "allowOffline": true
-  },
-  {
     "id": "cabc6aff4db2db03",
     "username": "200",
     "password": "kepet",
     "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "071de8c29c4919e3",
-    "username": "jonhson",
-    "password": "tv",
-    "expiresAt": "2026-07-15",
     "allowOffline": true
   },
   {
@@ -357,13 +343,6 @@
     "allowOffline": true
   },
   {
-    "id": "3737ae502b6821cb",
-    "username": "bian",
-    "password": "bian",
-    "expiresAt": "2026-07-15",
-    "allowOffline": true
-  },
-  {
     "id": "2be24be09b11ea91",
     "username": "fadilah",
     "password": "fadilah",
@@ -543,13 +522,6 @@
     "username": "cismod",
     "password": "cismod",
     "expiresAt": "3026-06-17",
-    "allowOffline": true
-  },
-  {
-    "id": "a897ca43e26cfbb9",
-    "username": "bibek",
-    "password": "bibek",
-    "expiresAt": "2026-07-15",
     "allowOffline": true
   },
   {
