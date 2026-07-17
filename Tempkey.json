@@ -607,5 +607,12 @@
     "password": "homicide",
     "expiresAt": "2026-10-12",
     "allowOffline": true
+  },
+  {
+    "id": "0e2f82ec5bc1f9be",
+    "username": "indra",
+    "password": "indra",
+    "expiresAt": "2026-09-13",
+    "allowOffline": true
   }
 ]
