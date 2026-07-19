@@ -621,5 +621,12 @@
     "password": "audi",
     "expiresAt": "2026-08-17",
     "allowOffline": true
+  },
+  {
+    "id": "f4d71d0e7946fdbf",
+    "username": "audi",
+    "password": "audi",
+    "expiresAt": "2026-08-17",
+    "allowOffline": true
   }
 ]
