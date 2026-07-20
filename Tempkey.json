@@ -607,5 +607,12 @@
     "password": "audi",
     "expiresAt": "2026-08-17",
     "allowOffline": true
+  },
+  {
+    "id": "2d38533b126b0454",
+    "username": "fajar",
+    "password": "fajar",
+    "expiresAt": "2026-08-18",
+    "allowOffline": true
   }
 ]
