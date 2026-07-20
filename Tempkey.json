@@ -217,13 +217,6 @@
     "allowOffline": true
   },
   {
-    "id": "c7237a9d05925222",
-    "username": "ujang",
-    "password": "ujang",
-    "expiresAt": "2026-07-17",
-    "allowOffline": true
-  },
-  {
     "id": "0912e6eaf435753f",
     "username": "cuanki",
     "password": "cuanki",
@@ -340,13 +333,6 @@
     "username": "lingga",
     "password": "vip05",
     "expiresAt": "2035-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "2be24be09b11ea91",
-    "username": "fadilah",
-    "password": "fadilah",
-    "expiresAt": "2026-07-18",
     "allowOffline": true
   },
   {
@@ -494,13 +480,6 @@
     "username": "lutfi",
     "password": "lutfi",
     "expiresAt": "3025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "da5abc68a1ea7ae6",
-    "username": "bad",
-    "password": "bad",
-    "expiresAt": "2026-07-18",
     "allowOffline": true
   },
   {
