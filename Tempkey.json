@@ -614,5 +614,12 @@
     "password": "fajar",
     "expiresAt": "2026-08-18",
     "allowOffline": true
+  },
+  {
+    "id": "2be24be09b11ea91",
+    "username": "fadilah",
+    "password": "fadilah",
+    "expiresAt": "2026-07-31",
+    "allowOffline": true
   }
 ]
