@@ -628,5 +628,12 @@
     "password": "paris",
     "expiresAt": "2026-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "3ad5651c6400f9a6",
+    "username": "denny",
+    "password": "denny",
+    "expiresAt": "2026-09-19",
+    "allowOffline": true
   }
 ]
