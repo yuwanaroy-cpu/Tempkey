@@ -614,5 +614,12 @@
     "password": "denny",
     "expiresAt": "2026-09-19",
     "allowOffline": true
+  },
+  {
+    "id": "cfec4ad530587246",
+    "username": "cismod",
+    "password": "cismod",
+    "expiresAt": "2027-07-23",
+    "allowOffline": true
   }
 ]
