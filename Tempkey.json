@@ -119,13 +119,6 @@
     "allowOffline": true
   },
   {
-    "id": "cfec4ad530587246",
-    "username": "cismod",
-    "password": "cismod",
-    "expiresAt": "2026-12-10",
-    "allowOffline": true
-  },
-  {
     "id": "2be3e73e62a72718",
     "username": "kebeb",
     "password": "kebeb",
@@ -420,13 +413,6 @@
     "allowOffline": true
   },
   {
-    "id": "cfec4ad530587246",
-    "username": "cismod",
-    "password": "cismod",
-    "expiresAt": "3026-08-09",
-    "allowOffline": true
-  },
-  {
     "id": "2527a10b7b5469b4",
     "username": "rogar",
     "password": "rogar",
@@ -494,13 +480,6 @@
     "username": "kumis",
     "password": "kumis",
     "expiresAt": "3026-08-31",
-    "allowOffline": true
-  },
-  {
-    "id": "8931dafc343cdeb8",
-    "username": "cismod",
-    "password": "cismod",
-    "expiresAt": "3026-06-17",
     "allowOffline": true
   },
   {
