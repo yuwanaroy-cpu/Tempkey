@@ -63,13 +63,6 @@
     "allowOffline": true
   },
   {
-    "id": "1011476f500f9d85",
-    "username": "noname",
-    "password": "noname",
-    "expiresAt": "2026-07-20",
-    "allowOffline": true
-  },
-  {
     "id": "9478dc759e39997f",
     "username": "akuaku",
     "password": "0204",
@@ -326,13 +319,6 @@
     "username": "lingga",
     "password": "vip05",
     "expiresAt": "2035-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "a3d7be4c7951ff8c",
-    "username": "rifky",
-    "password": "ramadhan",
-    "expiresAt": "2026-07-23",
     "allowOffline": true
   },
   {
