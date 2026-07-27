@@ -607,5 +607,12 @@
     "password": "cismod",
     "expiresAt": "2027-07-23",
     "allowOffline": true
+  },
+  {
+    "id": "7ac1220ee4ad4abc",
+    "username": "ranger",
+    "password": "ranger",
+    "expiresAt": "2026-08-27",
+    "allowOffline": true
   }
 ]
