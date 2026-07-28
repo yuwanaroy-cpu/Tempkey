@@ -600,5 +600,12 @@
     "password": "ranger",
     "expiresAt": "2026-08-27",
     "allowOffline": true
+  },
+  {
+    "id": "8cd01be91b9e953c",
+    "username": "queen",
+    "password": "queen",
+    "expiresAt": "2026-08-27",
+    "allowOffline": true
   }
 ]
