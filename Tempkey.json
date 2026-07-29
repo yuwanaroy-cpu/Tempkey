@@ -607,5 +607,12 @@
     "password": "queen",
     "expiresAt": "2026-08-27",
     "allowOffline": true
+  },
+  {
+    "id": "24ed4f61c936c030",
+    "username": "AIQ",
+    "password": "AIQ",
+    "expiresAt": "2026-08-28",
+    "allowOffline": true
   }
 ]
