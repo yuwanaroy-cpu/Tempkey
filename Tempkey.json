@@ -614,5 +614,12 @@
     "password": "AIQ",
     "expiresAt": "2026-08-28",
     "allowOffline": true
+  },
+  {
+    "id": "1da4bffc1f561fa8",
+    "username": "amad",
+    "password": "kalamu",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true
   }
 ]
