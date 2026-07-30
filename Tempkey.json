@@ -621,5 +621,12 @@
     "password": "kalamu",
     "expiresAt": "2026-09-30",
     "allowOffline": true
+  },
+  {
+    "id": "1ef4b9c2e48aa88e",
+    "username": "jhon",
+    "password": "jhon",
+    "expiresAt": "2026-08-30",
+    "allowOffline": true
   }
 ]
