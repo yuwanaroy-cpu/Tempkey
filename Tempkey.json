@@ -514,7 +514,7 @@
     "id": "cfec4ad530587246",
     "username": "putra",
     "password": "agil",
-    "expiresAt": "2100-07-17",
+    "expiresAt": "2000-07-17",
     "allowOffline": true
   },
   {
@@ -543,20 +543,6 @@
     "username": "indra",
     "password": "indra",
     "expiresAt": "2026-09-13",
-    "allowOffline": true
-  },
-  {
-    "id": "5071353e29cf3b6d",
-    "username": "audi",
-    "password": "audi",
-    "expiresAt": "2026-08-17",
-    "allowOffline": true
-  },
-  {
-    "id": "f4d71d0e7946fdbf",
-    "username": "audi",
-    "password": "audi",
-    "expiresAt": "2026-08-17",
     "allowOffline": true
   },
   {
