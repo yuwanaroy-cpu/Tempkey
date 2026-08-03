@@ -614,5 +614,12 @@
     "password": "jhon",
     "expiresAt": "2026-08-30",
     "allowOffline": true
+  },
+  {
+    "id": "064566522b32f0d4",
+    "username": "zenitsu",
+    "password": "zenitsu",
+    "expiresAt": "2026-08-23",
+    "allowOffline": true
   }
 ]
