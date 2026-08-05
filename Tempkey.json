@@ -621,5 +621,12 @@
     "password": "zenitsu",
     "expiresAt": "2026-08-19",
     "allowOffline": true
+  },
+  {
+    "id": "1a467baecd5d9172",
+    "username": "egi",
+    "password": "egi",
+    "expiresAt": "2026-12-03",
+    "allowOffline": true
   }
 ]
