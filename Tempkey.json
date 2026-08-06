@@ -635,5 +635,12 @@
     "password": "hafiz",
     "expiresAt": "2026-11-06",
     "allowOffline": true
+  },
+  {
+    "id": "bcba988528821aaa",
+    "username": "ujang",
+    "password": "ujang",
+    "expiresAt": "2026-11-06",
+    "allowOffline": true
   }
 ]
