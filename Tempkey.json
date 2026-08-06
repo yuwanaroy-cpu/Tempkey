@@ -628,5 +628,12 @@
     "password": "egi",
     "expiresAt": "2026-12-03",
     "allowOffline": true
+  },
+  {
+    "id": "b31b3e878e5df966",
+    "username": "hafiz",
+    "password": "hafiz",
+    "expiresAt": "2026-11-06",
+    "allowOffline": true
   }
 ]
