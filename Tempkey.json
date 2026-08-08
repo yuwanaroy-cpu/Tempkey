@@ -614,5 +614,12 @@
     "password": "0606",
     "expiresAt": "2026-11-07",
     "allowOffline": true
+  },
+  {
+    "id": "9cf0cebdcebe96d9",
+    "username": "frn2",
+    "password": "frn2",
+    "expiresAt": "2026-09-12",
+    "allowOffline": true
   }
 ]
