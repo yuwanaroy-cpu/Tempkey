@@ -621,5 +621,12 @@
     "password": "frn2",
     "expiresAt": "2026-09-12",
     "allowOffline": true
+  },
+  {
+    "id": "cfec4ad530587246",
+    "username": "arif",
+    "password": "arif",
+    "expiresAt": "2026-10-10",
+    "allowOffline": true
   }
 ]
