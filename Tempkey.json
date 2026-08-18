@@ -642,5 +642,12 @@
     "password": "riki",
     "expiresAt": "2026-11-11",
     "allowOffline": true
+  },
+  {
+    "id": "eda37a0e9fae252a",
+    "username": "bo",
+    "password": "bo",
+    "expiresAt": "2026-10-17",
+    "allowOffline": true
   }
 ]
