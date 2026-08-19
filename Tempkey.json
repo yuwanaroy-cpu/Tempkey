@@ -656,5 +656,12 @@
     "password": "ngek",
     "expiresAt": "2026-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "a3d7be4c7951ff8c",
+    "username": "rifky",
+    "password": "ramadhan",
+    "expiresAt": "2026-09-19",
+    "allowOffline": true
   }
 ]
