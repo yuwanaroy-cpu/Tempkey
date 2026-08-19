@@ -663,5 +663,12 @@
     "password": "ramadhan",
     "expiresAt": "2026-09-19",
     "allowOffline": true
+  },
+  {
+    "id": "52358b94278ff1a4",
+    "username": "arief",
+    "password": "arief",
+    "expiresAt": "2027-08-19",
+    "allowOffline": true
   }
 ]
