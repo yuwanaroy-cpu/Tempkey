@@ -649,5 +649,12 @@
     "password": "bo",
     "expiresAt": "2026-10-17",
     "allowOffline": true
+  },
+  {
+    "id": "89bdc612c3954e4d",
+    "username": "mas",
+    "password": "ngek",
+    "expiresAt": "2026-10-20",
+    "allowOffline": true
   }
 ]
