@@ -91,13 +91,6 @@
     "allowOffline": true
   },
   {
-    "id": "cabc6aff4db2db03",
-    "username": "200",
-    "password": "kepet",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
     "id": "bf0485e92fae6327",
     "username": "zaidan",
     "password": "kang",
@@ -109,13 +102,6 @@
     "username": "kebeb",
     "password": "kebeb",
     "expiresAt": "2026-10-16",
-    "allowOffline": true
-  },
-  {
-    "id": "3d202d3c850fa935",
-    "username": "kepet",
-    "password": "kzr",
-    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
