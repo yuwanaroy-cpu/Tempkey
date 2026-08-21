@@ -677,5 +677,12 @@
     "password": "indomie",
     "expiresAt": "2026-09-19",
     "allowOffline": true
+  },
+  {
+    "id": "26f9ba81a7e57c84",
+    "username": "dpo",
+    "password": "clone",
+    "expiresAt": "2027-08-21",
+    "allowOffline": true
   }
 ]
