@@ -691,5 +691,12 @@
     "password": "aldi",
     "expiresAt": "2026-09-22",
     "allowOffline": true
+  },
+  {
+    "id": "69cb279510c7a330",
+    "username": "user",
+    "password": "user",
+    "expiresAt": "2026-09-21",
+    "allowOffline": true
   }
 ]
