@@ -705,5 +705,12 @@
     "password": "zeptian",
     "expiresAt": "2026-08-25",
     "allowOffline": true
+  },
+  {
+    "id": "593504444e597fef",
+    "username": "adam2",
+    "password": "adam2",
+    "expiresAt": "2027-08-25",
+    "allowOffline": true
   }
 ]
