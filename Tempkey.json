@@ -712,5 +712,12 @@
     "password": "adam2",
     "expiresAt": "2027-08-25",
     "allowOffline": true
+  },
+  {
+    "id": "f5c47cc4d9dfd11c",
+    "username": "zoel",
+    "password": "ham",
+    "expiresAt": "2026-09-26",
+    "allowOffline": true
   }
 ]
