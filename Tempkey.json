@@ -726,5 +726,12 @@
     "password": "umay02",
     "expiresAt": "2026-09-26",
     "allowOffline": true
+  },
+  {
+    "id": "23aaed0ca3d04986",
+    "username": "dedy",
+    "password": "dedy",
+    "expiresAt": "2026-11-27",
+    "allowOffline": true
   }
 ]
