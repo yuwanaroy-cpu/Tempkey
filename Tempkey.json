@@ -747,5 +747,12 @@
     "password": "wrida",
     "expiresAt": "2026-11-28",
     "allowOffline": true
+  },
+  {
+    "id": "a90752c60d578622",
+    "username": "budi",
+    "password": "budi",
+    "expiresAt": "2026-10-28",
+    "allowOffline": true
   }
 ]
