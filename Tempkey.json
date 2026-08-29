@@ -754,5 +754,12 @@
     "password": "budi",
     "expiresAt": "2026-10-28",
     "allowOffline": true
+  },
+  {
+    "id": "d3aa450c84efcf59",
+    "username": "edo",
+    "password": "edo",
+    "expiresAt": "2026-09-29",
+    "allowOffline": true
   }
 ]
