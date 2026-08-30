@@ -707,13 +707,6 @@
     "allowOffline": true
   },
   {
-    "id": "7a2251eafcdc0b4b",
-    "username": "adam2",
-    "password": "adam2",
-    "expiresAt": "2027-08-25",
-    "allowOffline": true
-  },
-  {
     "id": "f5c47cc4d9dfd11c",
     "username": "zoel",
     "password": "ham",
@@ -767,6 +760,13 @@
     "username": "nino",
     "password": "nino",
     "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
+  {
+    "id": "7a2251eafcdc0b4b",
+    "username": "adam2",
+    "password": "adam2",
+    "expiresAt": "2027-08-30",
     "allowOffline": true
   }
 ]
