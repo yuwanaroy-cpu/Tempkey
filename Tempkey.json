@@ -761,5 +761,12 @@
     "password": "baron",
     "expiresAt": "2026-11-03",
     "allowOffline": true
+  },
+  {
+    "id": "1fde1e0cf2734be5",
+    "username": "fredy",
+    "password": "fredy",
+    "expiresAt": "2026-11-03",
+    "allowOffline": true
   }
 ]
