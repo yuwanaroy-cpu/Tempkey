@@ -768,5 +768,12 @@
     "password": "fredy",
     "expiresAt": "2026-11-03",
     "allowOffline": true
+  },
+  {
+    "id": "8a3c1e166304c3a8",
+    "username": "widi",
+    "password": "widi",
+    "expiresAt": "2026-12-03",
+    "allowOffline": true
   }
 ]
