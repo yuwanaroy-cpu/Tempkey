@@ -754,5 +754,12 @@
     "password": "ganteng",
     "expiresAt": "2026-10-06",
     "allowOffline": true
+  },
+  {
+    "id": "d0c727df56508ac1",
+    "username": "oppo",
+    "password": "oppo",
+    "expiresAt": "2026-10-07",
+    "allowOffline": true
   }
 ]
