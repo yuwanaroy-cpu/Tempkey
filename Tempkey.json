@@ -761,5 +761,12 @@
     "password": "oppo",
     "expiresAt": "2026-10-07",
     "allowOffline": true
+  },
+  {
+    "id": "e84b83c17e6726f4",
+    "username": "mbojol",
+    "password": "mbojol",
+    "expiresAt": "2027-09-08",
+    "allowOffline": true
   }
 ]
