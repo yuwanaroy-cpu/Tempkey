@@ -775,5 +775,12 @@
     "password": "aris4",
     "expiresAt": "2027-09-09",
     "allowOffline": true
+  },
+  {
+    "id": "cfec4ad530587246",
+    "username": "adamcs",
+    "password": "adamcs",
+    "expiresAt": "2027-09-11",
+    "allowOffline": true
   }
 ]
