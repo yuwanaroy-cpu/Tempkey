@@ -775,5 +775,12 @@
     "password": "adamcsx",
     "expiresAt": "2027-09-12",
     "allowOffline": true
+  },
+  {
+    "id": "d091aa6e8ea1cbd7",
+    "username": "adamdrv",
+    "password": "adamdrv",
+    "expiresAt": "2027-09-12",
+    "allowOffline": true
   }
 ]
