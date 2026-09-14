@@ -810,5 +810,12 @@
     "password": "heru",
     "expiresAt": "2027-09-13",
     "allowOffline": true
+  },
+  {
+    "id": "c12f2265bb9c6c95",
+    "username": "cismod",
+    "password": "cismod",
+    "expiresAt": "2027-09-14",
+    "allowOffline": true
   }
 ]
