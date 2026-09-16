@@ -803,5 +803,12 @@
     "password": "cismod",
     "expiresAt": "2027-09-14",
     "allowOffline": true
+  },
+  {
+    "id": "2029c1e7890c8e1b",
+    "username": "realme",
+    "password": "realme",
+    "expiresAt": "2026-10-16",
+    "allowOffline": true
   }
 ]
