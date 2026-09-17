@@ -810,5 +810,12 @@
     "password": "realme",
     "expiresAt": "2026-10-16",
     "allowOffline": true
+  },
+  {
+    "id": "644d2604a36f81bd",
+    "username": "ibnu",
+    "password": "ibnu",
+    "expiresAt": "2026-10-18",
+    "allowOffline": true
   }
 ]
