@@ -817,5 +817,12 @@
     "password": "cismod",
     "expiresAt": "2027-09-20",
     "allowOffline": true
+  },
+  {
+    "id": "ab483671173efbe4",
+    "username": "eko",
+    "password": "eko",
+    "expiresAt": "2026-11-28",
+    "allowOffline": true
   }
 ]
