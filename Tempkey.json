@@ -838,5 +838,12 @@
     "password": "dion",
     "expiresAt": "2027-10-06",
     "allowOffline": true
+  },
+  {
+    "id": "930e26dad9fd96e0",
+    "username": "hesuwi",
+    "password": "clone",
+    "expiresAt": "2027-10-07",
+    "allowOffline": true
   }
 ]
