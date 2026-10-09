@@ -838,5 +838,12 @@
     "password": "dion",
     "expiresAt": "2027-10-06",
     "allowOffline": true
+  },
+  {
+    "id": "637f9328e06912c8",
+    "username": "mas",
+    "password": "bro",
+    "expiresAt": "2026-11-09",
+    "allowOffline": true
   }
 ]
