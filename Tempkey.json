@@ -845,5 +845,12 @@
     "password": "bro",
     "expiresAt": "2026-11-09",
     "allowOffline": true
+  },
+  {
+    "id": "bea4d4bb546d1a94",
+    "username": "Mfirdaus",
+    "password": "Mfirdaus",
+    "expiresAt": "2027-10-10",
+    "allowOffline": true
   }
 ]
