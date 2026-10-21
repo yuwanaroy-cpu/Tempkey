@@ -859,5 +859,12 @@
     "password": "dion2",
     "expiresAt": "2027-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "a5174a241f151fb3",
+    "username": "power2",
+    "password": "power2",
+    "expiresAt": "2026-11-21",
+    "allowOffline": true
   }
 ]
