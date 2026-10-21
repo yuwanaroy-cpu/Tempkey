@@ -873,5 +873,12 @@
     "password": "irfan",
     "expiresAt": "2027-01-21",
     "allowOffline": true
+  },
+  {
+    "id": "4712d97479a7ab35",
+    "username": "febri",
+    "password": "febri",
+    "expiresAt": "2026-11-21",
+    "allowOffline": true
   }
 ]
