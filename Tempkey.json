@@ -894,5 +894,12 @@
     "password": "quen",
     "expiresAt": "2027-10-22",
     "allowOffline": true
+  },
+  {
+    "id": "3f6dced2bdf8b7bf",
+    "username": "rio",
+    "password": "rio",
+    "expiresAt": "2026-12-22",
+    "allowOffline": true
   }
 ]
