@@ -929,5 +929,12 @@
     "password": "zainal2",
     "expiresAt": "2026-11-22",
     "allowOffline": true
+  },
+  {
+    "id": "bc717f4237e67c8b",
+    "username": "eltar",
+    "password": "eltar",
+    "expiresAt": "2026-12-22",
+    "allowOffline": true
   }
 ]
