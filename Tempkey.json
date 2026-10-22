@@ -901,5 +901,12 @@
     "password": "rio",
     "expiresAt": "2026-12-22",
     "allowOffline": true
+  },
+  {
+    "id": "0c368eb232bdb9e0",
+    "username": "idris",
+    "password": "idris",
+    "expiresAt": "2026-10-22",
+    "allowOffline": true
   }
 ]
