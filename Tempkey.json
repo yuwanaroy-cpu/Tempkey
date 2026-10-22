@@ -936,5 +936,12 @@
     "password": "eltar",
     "expiresAt": "2026-12-22",
     "allowOffline": true
+  },
+  {
+    "id": "b0b712f3ce0002f1",
+    "username": "dozeng",
+    "password": "dozeng",
+    "expiresAt": "2026-11-22",
+    "allowOffline": true
   }
 ]
