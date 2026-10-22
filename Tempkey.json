@@ -906,7 +906,14 @@
     "id": "0c368eb232bdb9e0",
     "username": "idris",
     "password": "idris",
-    "expiresAt": "2026-10-22",
+    "expiresAt": "2027-01-22",
+    "allowOffline": true
+  },
+  {
+    "id": "dd6df0068bd20484",
+    "username": "zainal",
+    "password": "zainal",
+    "expiresAt": "2026-11-22",
     "allowOffline": true
   }
 ]
