@@ -943,5 +943,12 @@
     "password": "dozeng",
     "expiresAt": "2026-11-22",
     "allowOffline": true
+  },
+  {
+    "id": "f0a97948a43d1453",
+    "username": "budi",
+    "password": "irawan",
+    "expiresAt": "2027-01-23",
+    "allowOffline": true
   }
 ]
