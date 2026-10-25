@@ -957,5 +957,12 @@
     "password": "keira",
     "expiresAt": "2027-01-24",
     "allowOffline": true
+  },
+  {
+    "id": "22e3b8e1b0b8be9e",
+    "username": "bram",
+    "password": "bram",
+    "expiresAt": "2026-12-25",
+    "allowOffline": true
   }
 ]
