@@ -957,5 +957,12 @@
     "password": "bram",
     "expiresAt": "2026-12-25",
     "allowOffline": true
+  },
+  {
+    "id": "69e252466ebf1812",
+    "username": "umay",
+    "password": "umay",
+    "expiresAt": "2026-11-26",
+    "allowOffline": true
   }
 ]
