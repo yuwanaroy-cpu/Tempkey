@@ -964,5 +964,12 @@
     "password": "umay",
     "expiresAt": "2026-11-26",
     "allowOffline": true
+  },
+  {
+    "id": "ea46487b3cedeb7f",
+    "username": "enal",
+    "password": "enal",
+    "expiresAt": "2026-11-26",
+    "allowOffline": true
   }
 ]
