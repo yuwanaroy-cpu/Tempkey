@@ -971,5 +971,12 @@
     "password": "enal",
     "expiresAt": "2026-11-26",
     "allowOffline": true
+  },
+  {
+    "id": "970f3c0d6cf11bb6",
+    "username": "cimangcu",
+    "password": "cimangcu",
+    "expiresAt": "2027-10-28",
+    "allowOffline": true
   }
 ]
