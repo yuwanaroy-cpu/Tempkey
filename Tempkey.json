@@ -985,5 +985,12 @@
     "password": "zega",
     "expiresAt": "2026-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "c792b6ebc92b1104",
+    "username": "legend",
+    "password": "legend",
+    "expiresAt": "2026-11-20",
+    "allowOffline": true
   }
 ]
