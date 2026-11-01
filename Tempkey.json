@@ -999,5 +999,12 @@
     "password": "umar",
     "expiresAt": "2026-12-01",
     "allowOffline": true
+  },
+  {
+    "id": "0591181b6b81ccd7",
+    "username": "rahman",
+    "password": "rahman",
+    "expiresAt": "2027-01-30",
+    "allowOffline": true
   }
 ]
