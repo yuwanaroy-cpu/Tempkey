@@ -1006,5 +1006,12 @@
     "password": "rahman",
     "expiresAt": "2027-01-01",
     "allowOffline": true
+  },
+  {
+    "id": "0b7735a50a196403",
+    "username": "andre",
+    "password": "andre",
+    "expiresAt": "2027-11-02",
+    "allowOffline": true
   }
 ]
