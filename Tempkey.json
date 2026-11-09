@@ -315,20 +315,6 @@
     "allowOffline": true
   },
   {
-    "id": "3b9e882601c4b64a",
-    "username": "mas",
-    "password": "clone",
-    "expiresAt": "2026-09-23",
-    "allowOffline": true
-  },
-  {
-    "id": "54b82ad41e0add01",
-    "username": "mas",
-    "password": "ngek",
-    "expiresAt": "2026-10-20",
-    "allowOffline": true
-  },
-  {
     "id": "58eb3ba13b8942eb",
     "username": "miun",
     "password": "miun",
@@ -815,7 +801,7 @@
     "id": "637f9328e06912c8",
     "username": "mas",
     "password": "bro",
-    "expiresAt": "2026-11-09",
+    "expiresAt": "2026-12-09",
     "allowOffline": true
   },
   {
