@@ -7,13 +7,6 @@
     "allowOffline": true
   },
   {
-    "id": "24ed4f61c936c030",
-    "username": "AIQ",
-    "password": "AIQ",
-    "expiresAt": "2026-08-28",
-    "allowOffline": true
-  },
-  {
     "id": "a3d126c78b386e77",
     "username": "akuaku",
     "password": "0204",
@@ -294,13 +287,6 @@
     "allowOffline": true
   },
   {
-    "id": "8ad8731483cff8c2",
-    "username": "nilkatha",
-    "password": "nilkatha",
-    "expiresAt": "2026-09-21",
-    "allowOffline": true
-  },
-  {
     "id": "7fff05865b223671",
     "username": "note8",
     "password": "note8",
@@ -382,13 +368,6 @@
     "username": "rabba",
     "password": "1111",
     "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "5f231c86e3b95ea8",
-    "username": "Rajkumar",
-    "password": "Rajkumar",
-    "expiresAt": "2026-10-21",
     "allowOffline": true
   },
   {
@@ -578,13 +557,6 @@
     "username": "agung",
     "password": "agung",
     "expiresAt": "2026-12-04",
-    "allowOffline": true
-  },
-  {
-    "id": "d0c727df56508ac1",
-    "username": "oppo",
-    "password": "oppo",
-    "expiresAt": "2026-10-07",
     "allowOffline": true
   },
   {
@@ -893,13 +865,6 @@
     "username": "rizki",
     "password": "rizki123",
     "expiresAt": "2026-12-06",
-    "allowOffline": true
-  },
-  {
-    "id": "de2edd19026bdc11",
-    "username": "fatwa",
-    "password": "fatwa",
-    "expiresAt": "2025-12-09",
     "allowOffline": true
   }
 ]
