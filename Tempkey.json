@@ -14,13 +14,6 @@
     "allowOffline": true
   },
   {
-    "id": "1da4bffc1f561fa8",
-    "username": "amad",
-    "password": "kalamu",
-    "expiresAt": "2026-09-30",
-    "allowOffline": true
-  },
-  {
     "id": "cfec4ad530587246",
     "username": "ardi",
     "password": "ardi",
@@ -77,13 +70,6 @@
     "allowOffline": true
   },
   {
-    "id": "3ad5651c6400f9a6",
-    "username": "denny",
-    "password": "denny",
-    "expiresAt": "2026-09-19",
-    "allowOffline": true
-  },
-  {
     "id": "72677a5563dae927",
     "username": "dio",
     "password": "dio",
@@ -123,13 +109,6 @@
     "username": "egi",
     "password": "egi",
     "expiresAt": "2026-12-03",
-    "allowOffline": true
-  },
-  {
-    "id": "2be24be09b11ea91",
-    "username": "fadilah",
-    "password": "fadilah",
-    "expiresAt": "2026-08-10",
     "allowOffline": true
   },
   {
@@ -266,13 +245,6 @@
     "allowOffline": true
   },
   {
-    "id": "8140eec39829133c",
-    "username": "mudji",
-    "password": "londo",
-    "expiresAt": "2026-10-08",
-    "allowOffline": true
-  },
-  {
     "id": "fabdc30dbabc7c66",
     "username": "naila",
     "password": "iqbal",
@@ -319,13 +291,6 @@
     "username": "panda",
     "password": "panda",
     "expiresAt": "2027-10-12",
-    "allowOffline": true
-  },
-  {
-    "id": "4d1d983115fe787c",
-    "username": "panjaitan",
-    "password": "panjaitan",
-    "expiresAt": "2026-09-21",
     "allowOffline": true
   },
   {
@@ -385,20 +350,6 @@
     "allowOffline": true
   },
   {
-    "id": "add46f383606c954",
-    "username": "riki",
-    "password": "riki",
-    "expiresAt": "2026-11-11",
-    "allowOffline": true
-  },
-  {
-    "id": "2527a10b7b5469b4",
-    "username": "rogar",
-    "password": "rogar",
-    "expiresAt": "2026-10-11",
-    "allowOffline": true
-  },
-  {
     "id": "8a4742d2d509bd3b",
     "username": "ryan",
     "password": "ryan",
@@ -438,13 +389,6 @@
     "username": "sugar",
     "password": "dadi",
     "expiresAt": "2026-12-10",
-    "allowOffline": true
-  },
-  {
-    "id": "bcba988528821aaa",
-    "username": "ujang",
-    "password": "ujang",
-    "expiresAt": "2026-11-06",
     "allowOffline": true
   },
   {
@@ -522,13 +466,6 @@
     "username": "nino",
     "password": "nino",
     "expiresAt": "2026-11-30",
-    "allowOffline": true
-  },
-  {
-    "id": "84d223c333d67c5e",
-    "username": "agus",
-    "password": "baron",
-    "expiresAt": "2026-11-03",
     "allowOffline": true
   },
   {
