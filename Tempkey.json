@@ -796,5 +796,12 @@
     "password": "rizki123",
     "expiresAt": "2026-12-06",
     "allowOffline": true
+  },
+  {
+    "id": "70c7d5b6a6be59e1",
+    "username": "hijau",
+    "password": "lumut",
+    "expiresAt": "2026-12-12",
+    "allowOffline": true
   }
 ]
