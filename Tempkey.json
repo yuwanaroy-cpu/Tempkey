@@ -803,5 +803,12 @@
     "password": "lumut",
     "expiresAt": "2026-12-12",
     "allowOffline": true
+  },
+  {
+    "id": "d101b4ca0cbe32cf",
+    "username": "yan",
+    "password": "diper",
+    "expiresAt": "2026-12-15",
+    "allowOffline": true
   }
 ]
