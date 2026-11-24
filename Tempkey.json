@@ -866,5 +866,12 @@
     "password": "fadhil",
     "expiresAt": "2026-12-23",
     "allowOffline": true
+  },
+  {
+    "id": "de2edd19026bdc11",
+    "username": "fatwa",
+    "password": "fatwa",
+    "expiresAt": "2026-12-24",
+    "allowOffline": true
   }
 ]
