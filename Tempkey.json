@@ -497,7 +497,7 @@
     "allowOffline": true
   },
   {
-    "id": "15b048a2fdbbd293",
+    "id": "b7ece88572715100",
     "username": "audi",
     "password": "audi",
     "expiresAt": "2027-09-09",
@@ -833,7 +833,7 @@
     "allowOffline": true
   },
   {
-    "id": "ae991ed0430ce304",
+    "id": "36fa64d69f9c44a3",
     "username": "audi",
     "password": "audi",
     "expiresAt": "2027-11-20",
@@ -872,13 +872,6 @@
     "username": "fatwa",
     "password": "fatwa",
     "expiresAt": "2026-12-24",
-    "allowOffline": true
-  },
-  {
-    "id": "35eb183762130b84",
-    "username": "audi",
-    "password": "audi",
-    "expiresAt": "2027-11-25",
     "allowOffline": true
   },
   {
