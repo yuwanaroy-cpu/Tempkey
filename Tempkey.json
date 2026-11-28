@@ -901,5 +901,12 @@
     "password": "RNR3",
     "expiresAt": "2026-12-28",
     "allowOffline": true
+  },
+  {
+    "id": "bce4d8f9c0ac62f5",
+    "username": "aspal",
+    "password": "aspal",
+    "expiresAt": "2027-01-28",
+    "allowOffline": true
   }
 ]
