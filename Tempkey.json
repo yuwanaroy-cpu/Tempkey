@@ -887,5 +887,12 @@
     "password": "RNR",
     "expiresAt": "2026-12-28",
     "allowOffline": true
+  },
+  {
+    "id": "39c4d2aeb173af87",
+    "username": "RNR2",
+    "password": "RNR3",
+    "expiresAt": "2026-12-28",
+    "allowOffline": true
   }
 ]
